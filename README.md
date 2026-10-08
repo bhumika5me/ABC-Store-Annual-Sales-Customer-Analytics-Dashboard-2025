@@ -1,4 +1,3 @@
-# ABC-Store-Annual-Sales-Customer-Analytics-Dashboard-2025
 # ABC Store -- Annual Sales & Customer Analytics Dashboard 2025
 
 ## Project Overview
