@@ -8,7 +8,8 @@ The project demonstrates foundational **Excel data analysis and dashboarding ski
 
 ## Dashboard Preview
 
-![ABC Store Dashboard](screenshots/dashboard.png)
+<img width="1228" height="666" alt="Screenshot 2026-10-07 144216" src="https://github.com/user-attachments/assets/06680131-2b25-4063-af70-1dd469ec0769" />
+
 
 ## Objective
 
